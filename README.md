@@ -4,4 +4,4 @@
 * 3 to 4 years of experience: C++, iOS, Android, Vue, HTML, CSS, DevOps, Cantonese, Alibaba Cloud
 * 1 to 2 years of experience: Product Management, PHP, C++, Azure, Kubernetes, Docker, Python, Pivotal Cloud Foundry, Kafka, Network, RTMP streaming, Pascal
 * less than 1 year of experience: Hardware, Go, Ruby, Big Data, Machine Learning, Japanese, AWS, ChatGPT, Elasticsearch
-* Experience here is different from working experience. List like this to show how relatively familiar I am with these skills.
+* The experience here is different from working experience, it is more like using experience since I started programming in 2008. Also, these skills are categorized to show the relative proficiency level I am with them.

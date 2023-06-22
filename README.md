@@ -1,6 +1,6 @@
 ## Skills
 
-I gained a lot of skills since I started programming in 2008. Let me categorize them using experience to show the relative proficiency level I am with them.
+I gained a lot of skills since I started programming in 2008. Let me categorize them with years of using experience to show the relative proficiency level I am with them.
 
 * 5 or more years of experience: Chinese, English, Writing, Java, Spring, Algorithm, Database, Redis, TDD, Linux, Windows, MacOS
 * 3 to 4 years of experience: C++, iOS, Android, Vue, HTML, CSS, DevOps, Cantonese, Alibaba Cloud

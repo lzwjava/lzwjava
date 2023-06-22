@@ -3,7 +3,7 @@
 I have gained a lot of skills since I started programming in 2008. Let's look at my skills from a high level. 
 
 * 5 or more years of experience: Chinese, English, Writing, Java, Algorithm, TDD, Cloud Computing, DevOps, Backend Development
-* 3 to 4 years of experience: Cantonese, iOS Development, Android Development, Frontend
+* 3 to 4 years of experience: Cantonese, iOS Development, Android Development, Frontend, Development
 * 1 to 2 years of experience: Product Management, Machine Learning 
 * less than 1 year of experience: Big Data
 
@@ -12,7 +12,7 @@ I have gained a lot of skills since I started programming in 2008. Let's look at
 
 Besides skills from the high level, I have experience with the following tools and I can use them anytime.
 
-* Natural Language: English, Chinese
+* Natural Language: English, Chinese, Cantonese, Hakka
 * Operating System: Linux, Windows, MacOS, Android, iOS, OpenWRT, Symbian, Apple tvOS, Fire OS
 Language: PHP, Java, Objective-C, Swift, Ruby, HTML, C, C++, JavaScript, Lisp, Clojure, TypeScript, JSON, CSS, Node.js, Go, SQL, NoSQL, Python, Pascal
 * Framework & Database: jQuery, Hexo, Jekyll, React, MongoDB, PostgreSQL, Microsoft SQL Server, Stylus, Sass, MySQL, Redis, Kafka,  RTMP streaming, HTTP/IP

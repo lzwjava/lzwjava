@@ -12,4 +12,4 @@ I have gained a lot of skills since I started programming in 2008. Let me catego
 
 Besides skills, I have experience with the following tools and I can use them anytime.
 
-C, JavaScript, TypeScript, SVG, JSON, Stylus, Sass, WordPress, jQuery, NPM, Node.js, Webpack, Hexo, Jekyll, React, Git, Travis CI, HomeBrew, Gradle, Maven, Apache JMeter, Sketch, GitHub, GitLab, Jira, Confluence, VScode, Xcode, Powershell, Calculus, Linear Algebra, Cloudflare, OpenWRT, Digital Ocean, Vultr, IntelliJ IDEA, Cocopods, Android Studio, Postman, Latex, FFmpeg, Nginx, Anaconda, Jupyter Notebook, TensorFlow, PyTorch, Theano.
+C, JavaScript, TypeScript, SVG, JSON, Stylus, Sass, WordPress, jQuery, NPM, Node.js, Webpack, Hexo, Jekyll, React, Git, Travis CI, HomeBrew, Gradle, Maven, Apache JMeter, Sketch, GitHub, GitLab, Jira, Confluence, VScode, Xcode, Powershell, Calculus, Linear Algebra, Cloudflare, OpenWRT, Digital Ocean, Vultr, IntelliJ IDEA, Cocopods, Android Studio, Postman, Latex, FFmpeg, Nginx, Anaconda, Jupyter Notebook, TensorFlow, PyTorch, Theano, Spark, MongoDB, PostgreSQL, Microsoft SQL Server.

@@ -24,3 +24,16 @@ Language: PHP, Java, Objective-C, Swift, Ruby, HTML, C, C++, JavaScript, Lisp, C
 * Others: FFmpeg, Spark, Proxy Tools
 * Current Learning: Japanse, Machine Learning, Cloud Computing
 
+## Links
+
+* [Weibo](https://weibo.com/zhiweilee)
+* [Twitter](https://twitter.com/lzwjava)
+* [GitHub](https://github.com/lzwjava)
+* [Youtube](https://www.youtube.com/channel/UC-jqwnFwWOS4ydgTsQR-9ZQ)
+* [Douyin](https://v.douyin.com/iKAw9YC)
+* [Facebook](https://www.facebook.com/lzwjava)
+* [Blog](https://lzwjava.github.io)
+* [Codeforces](https://codeforces.com/profile/lzwjava)
+* [UVa Online Judge](https://uhunt.onlinejudge.org/id/113519)
+* [LinkedIn](https://www.linkedin.com/in/lzwjava)
+

@@ -24,9 +24,3 @@ Language: PHP, Java, Objective-C, Swift, Ruby, HTML, C, C++, JavaScript, Lisp, C
 * Others: FFmpeg, Spark, Proxy Tools
 * Current Learning: Japanse, Machine Learning, Cloud Computing
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzwjava&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzwjava&langs_count=10&layout=compact&hide=jupyter%20notebook,html,css,shell,makefile,shaderlab,rich%20text%20format)
-

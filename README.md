@@ -26,10 +26,13 @@ Language: PHP, Java, Objective-C, Swift, Ruby, HTML, C, C++, JavaScript, Lisp, C
 
 ## Links
 
-| [GitHub](https://github.com/lzwjava)|[Weibo](https://weibo.com/zhiweilee)| [Blog](https://lzwjava.github.io)  |
+|A|B|C|
+|-----|-----|-----|
+| [GitHub](https://github.com/lzwjava)|[Weibo](https://weibo.com/zhiweilee)| [Blog](https://lzwjava.github.io) |
 | [Codeforces](https://codeforces.com/profile/lzwjava)|[Twitter](https://twitter.com/lzwjava)|  [TikTok](https://www.tiktok.com/@jamesleecool) |
-| [UVa Judge](https://uhunt.onlinejudge.org/id/113519) |[LinkedIn](https://www.linkedin.com/in/lzwjava) |[Facebook](https://www.facebook.com/lzwjava) |      
+| [UVa Judge](https://uhunt.onlinejudge.org/id/113519) |[LinkedIn](https://www.linkedin.com/in/lzwjava) |[Facebook](https://www.facebook.com/lzwjava) |
 | [Douyin](https://v.douyin.com/iKAw9YC)     | [Youtube](https://www.youtube.com/channel/UC-jqwnFwWOS4ydgTsQR-9ZQ)      | [Xiaohongshu](https://www.xiaohongshu.com/user/profile/577ba85b6a6a6913f98f237b)|
+
 
 
 

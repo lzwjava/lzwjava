@@ -1,1 +1,1 @@
-
+truth love freedom

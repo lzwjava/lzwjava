@@ -8,5 +8,7 @@ truth love freedom
 * [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub)
 * [live-server](https://github.com/lzwjava/live-server)
 * [live-mobile-web](https://github.com/lzwjava/live-mobile-web)
+* [LZAlbum](https://github.com/lzwjava/LZAlbum)
+
 
 

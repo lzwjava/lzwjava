@@ -7,6 +7,6 @@ truth love freedom
 * [leanchat-ios](https://github.com/lzwjava/leanchat-ios)
 * [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub)
 * [live-server](https://github.com/lzwjava/live-server)
-* [live-mobile-web](https://github.com/lzwjava/live-mobile-web/settings)
+* [live-mobile-web](https://github.com/lzwjava/live-mobile-web)
 
 

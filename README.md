@@ -1,6 +1,6 @@
 | project | language | commits|project|language|commits|
 | ------------- | ------------- |---- |---|---|----|
-|[neural-networks-and-zhiwei-learning](https://github.com/lzwjava/neural-networks-and-zhiwei-learning)| Python | 530||[leachat-android](https://github.com/lzwjava/leanchat-android) | Java | 412|
+|[neural-networks-and-zhiwei-learning](https://github.com/lzwjava/neural-networks-and-zhiwei-learning)| Python | 530|[leachat-android](https://github.com/lzwjava/leanchat-android) | Java | 412|
 |[algorithm-solutions](https://github.com/lzwjava/algorithm-solutions)| Java | 2511|[leanchat-ios](https://github.com/lzwjava/leanchat-ios) | Objective-C | 556|
 |[lzwjava.github.io](https://github.com/lzwjava/lzwjava.github.io)| Chinese & English | 1564|[live-server](https://github.com/lzwjava/live-server) | PHP|660|
 |[live-mobile-web](https://github.com/lzwjava/live-mobile-web) |JavaScript & HTML| 528 |[live-web](https://github.com/lzwjava/live-web) |JavaScript & HTML| 140|

@@ -6,7 +6,7 @@
 |[live-mobile-web](https://github.com/lzwjava/live-mobile-web) |JavaScript & HTML| 528 |[live-web](https://github.com/lzwjava/live-web) |JavaScript & HTML| 140|
 |[live-wxapp](https://github.com/lzwjava/live-wxapp)|JavaScript|63|[LZAlbum](https://github.com/lzwjava/LZAlbum) |Objective-C |69|
 |[code-review-server](https://github.com/lzwjava/code-review-server)|PHP| 275 |[code-review-web](https://github.com/lzwjava/code-review-web)|JavaScript & HTML| 302|
-| [curiosity-courses](https://github.com/lzwjava/curiosity-courses)|Chinese|215|[LvChenSign](https://github.com/lzwjava/lvchensign)|JavaScript|40|
+| [curiosity-courses](https://github.com/lzwjava/curiosity-courses)|Chinese|215|[lvchensign](https://github.com/lzwjava/lvchensign)|JavaScript|40|
 | [feynman-lectures-mobi](https://github.com/lzwjava/feynman-lectures-mobi) |Python|47| [Creak](https://github.com/lzwjava/Creak)|Swift|49|
 |[Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) |Objective-C|56| [Keynotes](https://github.com/lzwjava/Keynotes)|Chinese |32|
 | [TabsKiller](https://github.com/lzwjava/TabsKiller)| JavaScript|18|[flower-recognition](https://github.com/lzwjava/flower-recognition)|Java|33|

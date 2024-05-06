@@ -10,5 +10,4 @@
 | [feynman-lectures-mobi](https://github.com/lzwjava/feynman-lectures-mobi) |Python|47| [Creak](https://github.com/lzwjava/Creak)|Swift|49|
 |[Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) |Objective-C|56| [Keynotes](https://github.com/lzwjava/Keynotes)|Chinese |32|
 | [TabsKiller](https://github.com/lzwjava/TabsKiller)| JavaScript|18|[flower-recognition](https://github.com/lzwjava/flower-recognition)|Java|33|
-|[weimg-server](https://github.com/lzwjava/weimg-server)|PHP|35|[weimg-ios]((https://github.com/lzwjava/weimg-ios)|Objective-C|77|
-
+|[weimg-server](https://github.com/lzwjava/weimg-server)|PHP|35|[weimg-ios](https://github.com/lzwjava/weimg-ios)|Objective-C|77|

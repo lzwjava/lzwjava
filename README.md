@@ -8,6 +8,6 @@
 | [curiosity-courses](https://github.com/lzwjava/curiosity-courses)|Chinese|215| [LZAlbum](https://github.com/lzwjava/LZAlbum) |Objective-C |69|
 | [feynman-lectures-mobi](https://github.com/lzwjava/feynman-lectures-mobi) |Python|47| [Creak](https://github.com/lzwjava/Creak)|Swift|49|
 |[Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) |Objective-C|56| [Keynotes](https://github.com/lzwjava/Keynotes)|Chinese |32|
-| [TabsKiller](https://github.com/lzwjava/TabsKiller)| JavaScript|18|[flower-recognition](https://github.com/lzwjava/flower-recognition)|Java|33
-
+| [TabsKiller](https://github.com/lzwjava/TabsKiller)| JavaScript|18|[flower-recognition](https://github.com/lzwjava/flower-recognition)|Java|33|
+|[LvChenSign](https://github.com/lzwjava/lvchensign)|JavaScript|40|[live-wxapp](https://github.com/lzwjava/live-wxapp)|JavaScript|63|
 

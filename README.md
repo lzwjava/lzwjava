@@ -2,7 +2,7 @@
 | ------------- | ------------- |---- |---|---|----|
 |[algorithm-solutions](https://github.com/lzwjava/algorithm-solutions)| Java | 2511 |[leachat-android](https://github.com/lzwjava/leanchat-android) | Java | 412|
 |[LZAlbum](https://github.com/lzwjava/LZAlbum) |Objective-C |69|[leanchat-ios](https://github.com/lzwjava/leanchat-ios) | Objective-C | 556|
-|[lzwjava.github.io](https://github.com/lzwjava/lzwjava.github.io)| Chinese & English | 4096|[live-server](https://github.com/lzwjava/live-server) | PHP|660|
+|[lzwjava.github.io](https://github.com/lzwjava/lzwjava.github.io)| Chinese & English | 17408|[live-server](https://github.com/lzwjava/live-server) | PHP|660|
 |[live-mobile-web](https://github.com/lzwjava/live-mobile-web) |JavaScript & HTML| 528 |[live-web](https://github.com/lzwjava/live-web) |JavaScript & HTML| 140|
 |[live-wxapp](https://github.com/lzwjava/live-wxapp)|JavaScript|63|[flower-recognition](https://github.com/lzwjava/flower-recognition)|Java|33|
 |[code-review-server](https://github.com/lzwjava/code-review-server)|PHP| 275 |[code-review-web](https://github.com/lzwjava/code-review-web)|JavaScript & HTML| 302|

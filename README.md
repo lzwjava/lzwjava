@@ -6,6 +6,9 @@
 
 ## Projects
 
+- 🤖 **[iclaw](https://github.com/lzwjava/iclaw)** - Terminal AI agent that codes, searches, and runs commands, powered by GitHub Copilot
+- 🛠️ **[ww](https://github.com/lzwjava/ww)** - Cross-platform CLI toolkit for git workflows, note management, image/PDF processing, and LLM helpers
+- 🗄️ **[zz](https://github.com/lzwjava/zz)** - Dataset processing and training utilities for machine learning projects
 - 🧮 **[algorithm-solutions](https://github.com/lzwjava/algorithm-solutions)** - Solutions to 1000+ algorithm problems from UVa, Codeforces, LeetCode, and HackerRank
 - 💬 **[leanchat-android](https://github.com/lzwjava/leanchat-android)** - Android demo app showcasing LeanCloud real-time messaging
 - 🖼️ **[LZAlbum](https://github.com/lzwjava/LZAlbum)** - iOS Moments-like app demonstrating LeanCloud one-to-many relationships

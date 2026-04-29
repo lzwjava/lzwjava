@@ -2,7 +2,7 @@
 
 📍 **China** | 💻 **Full-Stack & AI Engineer** | ✍️ **Blogger & Lifelong Learner** | 🌐 **[Website](https://lzwjava.github.io)** | 📋 **[Portfolio](https://lzwjava.github.io/portfolio-en)**
 
-> Chasing truth, freedom, and the joy of building things.
+> AI scientist exploring LLMs, code, and life—chasing truth, freedom, and the joy of building.
 
 ## Projects
 

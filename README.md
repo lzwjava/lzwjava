@@ -7,6 +7,7 @@
 ## Projects
 
 - 🎬 **[flux-reel](https://github.com/lzwjava/flux-reel)** - AMD hackathon studio that turns a topic into a 15-second vertical short video on a Radeon GPU (ROCm)
+- 🧪 **[nanoGPT](https://github.com/lzwjava/nanoGPT)** *(fork · playground)* - This fork extends nanoGPT with additional dataset pipelines, scaled training configs, and inline shape annotations for learning. 45 commits, Nov 2025 – Apr 2026
 - 🤖 **[iclaw](https://github.com/lzwjava/iclaw)** - Terminal AI agent that codes, searches, and runs commands, powered by GitHub Copilot
 - 🛠️ **[ww](https://github.com/lzwjava/ww)** - Cross-platform CLI toolkit for git workflows, note management, image/PDF processing, and LLM helpers
 - 🗄️ **[zz](https://github.com/lzwjava/zz)** - Dataset processing and training utilities for machine learning projects
